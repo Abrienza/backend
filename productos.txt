@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Pelota",
+    "price": 1500.3,
+    "thumbnail": "http://localhost:3000",
+    "id": 1
+  },
+  {
+    "title": "Auriculares",
+    "price": 5000.5,
+    "thumbnail": "http://localhost:3000",
+    "id": 2
+  },
+  {
+    "title": "Peluche",
+    "price": 500.8,
+    "thumbnail": "http://localhost:3000",
+    "id": 3
+  }
+
+]
